@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\bin\Debug\Lection_6.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\bin\Debug\Lection_6.exe
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\bin\Debug\Lection_6.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\obj\Debug\Lection_6.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\obj\Debug\Lection_6.exe
+c:\users\dell\documents\visual studio 2015\Projects\Lection_6\Lection_6\obj\Debug\Lection_6.pdb
